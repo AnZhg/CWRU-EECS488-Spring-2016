@@ -1,0 +1,9 @@
+raspistill
+e.g.: raspistill -o cam.jpg
+  Capturing still photographs with the camera module
+
+raspivid
+  Capturing video with the camera module
+
+raspiyuv
+  Capturing still photographs and generating raw unprocessed image files
