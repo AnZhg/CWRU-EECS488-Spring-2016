@@ -1,0 +1,1 @@
+g++ autofocus.cpp -o autofocus `pkg-config --cflags opencv` `pkg-config --libs opencv`
